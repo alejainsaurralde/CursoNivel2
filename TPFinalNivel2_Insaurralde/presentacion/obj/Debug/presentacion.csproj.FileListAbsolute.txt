@@ -1,0 +1,16 @@
+C:\Users\aleja\OneDrive\Escritorio\TPFinalNivel2_Insaurralde\presentacion\bin\Debug\presentacion.exe.config
+C:\Users\aleja\OneDrive\Escritorio\TPFinalNivel2_Insaurralde\presentacion\bin\Debug\presentacion.exe
+C:\Users\aleja\OneDrive\Escritorio\TPFinalNivel2_Insaurralde\presentacion\bin\Debug\presentacion.pdb
+C:\Users\aleja\OneDrive\Escritorio\TPFinalNivel2_Insaurralde\presentacion\obj\Debug\presentacion.csproj.AssemblyReference.cache
+C:\Users\aleja\OneDrive\Escritorio\TPFinalNivel2_Insaurralde\presentacion\obj\Debug\presentacion.frmArticulos.resources
+C:\Users\aleja\OneDrive\Escritorio\TPFinalNivel2_Insaurralde\presentacion\obj\Debug\presentacion.Properties.Resources.resources
+C:\Users\aleja\OneDrive\Escritorio\TPFinalNivel2_Insaurralde\presentacion\obj\Debug\presentacion.csproj.GenerateResource.cache
+C:\Users\aleja\OneDrive\Escritorio\TPFinalNivel2_Insaurralde\presentacion\obj\Debug\presentacion.csproj.CoreCompileInputs.cache
+C:\Users\aleja\OneDrive\Escritorio\TPFinalNivel2_Insaurralde\presentacion\obj\Debug\presentacion.exe
+C:\Users\aleja\OneDrive\Escritorio\TPFinalNivel2_Insaurralde\presentacion\obj\Debug\presentacion.pdb
+C:\Users\aleja\OneDrive\Escritorio\TPFinalNivel2_Insaurralde\presentacion\obj\Debug\presentacion.frmAltaArticulo.resources
+C:\Users\aleja\OneDrive\Escritorio\TPFinalNivel2_Insaurralde\presentacion\bin\Debug\Dominio.dll
+C:\Users\aleja\OneDrive\Escritorio\TPFinalNivel2_Insaurralde\presentacion\bin\Debug\Dominio.pdb
+C:\Users\aleja\OneDrive\Escritorio\TPFinalNivel2_Insaurralde\presentacion\obj\Debug\presentacion.csproj.CopyComplete
+C:\Users\aleja\OneDrive\Escritorio\TPFinalNivel2_Insaurralde\presentacion\bin\Debug\Service.dll
+C:\Users\aleja\OneDrive\Escritorio\TPFinalNivel2_Insaurralde\presentacion\bin\Debug\Service.pdb
